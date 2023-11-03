@@ -33,6 +33,7 @@ public class SaveToTextFile {
 		}
 	}
 
+	
 	public void writeData(String data, String path) {
 
 		try (BufferedWriter bw = new BufferedWriter(new FileWriter(path))) {
@@ -50,7 +51,7 @@ public class SaveToTextFile {
 	public void save(String log) {
 
 		
-		String path = "C:/Users/mkale/java22-javaprogrammering/ProducerConsumer3//src/Files/saveLog.txt";
+		String path = "src/Files/saveLog.txt";
 		SaveToTextFile svt = new SaveToTextFile();
 		svt.writeData(log, path);
 		svt.readData(path);

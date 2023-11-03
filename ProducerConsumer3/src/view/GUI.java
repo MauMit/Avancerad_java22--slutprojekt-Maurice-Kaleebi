@@ -91,6 +91,8 @@ public class GUI extends JFrame {
 		});
 
 	}
+	
+	// methods to display data to JTextarea
 
 	public void printProductionInfo(int workerIndex, int seconds) {
 		logArea.append("Worker " + workerIndex + " produced in " + seconds + " seconds \n");

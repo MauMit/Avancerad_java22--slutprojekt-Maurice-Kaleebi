@@ -16,11 +16,15 @@ public class ProducerList {
 		controller.consumers();
 	}
 
+	
+	// Method to start producer threads
 	public void startThread() {
 		Thread producerThread = controller.getThread();
 		producerThreadsList.add(producerThread);
 		producerThread.start();
 	}
+
+	// Method to start remove threads
 
 	public void removeThread() {
 		if (!producerThreadsList.isEmpty()) {

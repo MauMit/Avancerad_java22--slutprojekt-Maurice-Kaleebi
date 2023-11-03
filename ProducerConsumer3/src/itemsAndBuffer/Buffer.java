@@ -24,6 +24,7 @@ public class Buffer {
 		this.controller = controller;
 	}
 	
+	//Calculation to get the average production rate and then send it to controller to be used in GUI
 	Timer timer = new Timer(10000, new ActionListener() {
 		
 		@Override
@@ -50,6 +51,7 @@ public class Buffer {
 		return buffer;
 	}
 
+	// Adds items to buffer and notifies producers and if the product amount is 100 or more tell producers to wait 
 	public synchronized void add(Item item) {
 				
 		if (productAmount >= 100) {
@@ -67,6 +69,8 @@ public class Buffer {
 		}
 	}
 
+	// Tells consumers to wait if buffer is empty of products
+	// Else removes items from buffer and notifies all consumers
 	public synchronized Item remove() {
 		if (buffer.isEmpty()) {
 			try {
