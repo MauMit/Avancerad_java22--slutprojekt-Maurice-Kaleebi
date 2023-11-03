@@ -119,7 +119,7 @@ public class GUI extends JFrame {
 
 		} else if (totalProducts > 10 && totalProducts < 90) {
 			progressBar.setForeground(Color.ORANGE);
-		} else if (totalProducts > 90) {
+		} else {
 			logArea.append("Production is too high \n");
 			progressBar.setForeground(Color.GREEN);
 		}
