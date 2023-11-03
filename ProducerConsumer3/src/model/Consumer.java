@@ -37,7 +37,7 @@ public class Consumer implements Runnable {
 		while (isRunning) {
 			try {
 				Thread.sleep(timeToConsume);
-				 buffer.remove();
+				buffer.remove();
 				
 				try {
 					controller.setConsumer(this);
@@ -47,6 +47,7 @@ public class Consumer implements Runnable {
 				}
 
 			} catch (InterruptedException e) {
+				break;
 
 			}
 		}

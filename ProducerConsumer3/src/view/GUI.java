@@ -91,7 +91,7 @@ public class GUI extends JFrame {
 		});
 
 	}
-	
+
 	// methods to display data to JTextarea
 
 	public void printProductionInfo(int workerIndex, int seconds) {
@@ -115,14 +115,13 @@ public class GUI extends JFrame {
 		progressBar.setString(strTotalProducts + "%");
 		progressBar.setValue(totalProducts);
 
-		if (totalProducts <= 10 && totalProducts != 0) {
+		if (totalProducts <= 10) {
+			logArea.append("Production is too low\n");
 			progressBar.setForeground(Color.RED);
-			logArea.append("Production is too low \n");
-
 		} else if (totalProducts > 10 && totalProducts < 90) {
 			progressBar.setForeground(Color.ORANGE);
 		} else {
-			logArea.append("Production is too high \n");
+			logArea.append("Production is too high\n");
 			progressBar.setForeground(Color.GREEN);
 		}
 
