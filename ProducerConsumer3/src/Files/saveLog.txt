@@ -1,0 +1,81 @@
+Worker added
+Worker added
+Worker added
+Worker added
+Worker added
+Worker 4 produced in 1 seconds 
+Active producers 5
+Production is too low 
+Worker 3 produced in 2 seconds 
+Active producers 5
+Production is too low 
+Worker 4 produced in 1 seconds 
+Active producers 5
+Production is too low 
+Worker 4 produced in 1 seconds 
+Active producers 5
+Production is too low 
+Production is too low 
+Production is too low 
+Worker 3 produced in 2 seconds 
+Active producers 5
+Production is too low 
+Worker 4 produced in 1 seconds 
+Active producers 5
+Production is too low 
+Worker 5 produced in 4 seconds 
+Active producers 5
+Production is too low 
+Worker added
+Worker added
+Worker 4 produced in 1 seconds 
+Active producers 7
+Production is too low 
+Worker added
+Production is too low 
+Worker added
+Worker added
+Worker 1 produced in 6 seconds 
+Active producers 10
+Production is too low 
+Worker added
+Worker added
+Worker 3 produced in 2 seconds 
+Active producers 12
+Production is too low 
+Worker added
+Worker 4 produced in 1 seconds 
+Active producers 13
+Production is too low 
+Production is too low 
+Worker added
+Worker added
+Worker 7 produced in 2 seconds 
+Active producers 15
+Production is too low 
+Worker added
+Worker 4 produced in 1 seconds 
+Active producers 16
+Production is too low 
+Worker added
+Production is too low 
+Worker added
+Worker 2 produced in 8 seconds 
+Active producers 18
+Production is too low 
+Worker 3 produced in 2 seconds 
+Active producers 18
+Production is too low 
+Worker 4 produced in 1 seconds 
+Active producers 18
+Worker 5 produced in 4 seconds 
+Active producers 18
+Production Average: 71.0% 
+Production is too low 
+Worker 7 produced in 2 seconds 
+Active producers 18
+Worker 4 produced in 1 seconds 
+Active producers 18
+Worker 17 produced in 2 seconds 
+Active producers 18
+

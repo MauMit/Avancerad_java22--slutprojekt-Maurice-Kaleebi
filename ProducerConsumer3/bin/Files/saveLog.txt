@@ -1,0 +1,88 @@
+Worker added
+Worker added
+Worker added
+Worker added
+Worker added
+Worker added
+Worker added
+Worker added
+Worker added
+Worker added
+Worker added
+Worker added
+Seconds is 3
+Production is too low 
+Worker 4 produced in 3
+Active producers 12
+Production is too low 
+Seconds is 6
+Worker 1 produced in 6
+Production is too low 
+Active producers 12
+Production is too low 
+Seconds is 5
+Worker 5 produced in 5
+Production is too low 
+Active producers 12
+Production is too low 
+Seconds is 6
+Worker 2 produced in 6
+Production is too low 
+Active producers 12
+Production is too low 
+Seconds is 3
+Production is too low 
+Worker 4 produced in 3
+Active producers 12
+Production is too low 
+Seconds is 6
+Worker 7 produced in 6
+Production is too low 
+Active producers 12
+Production is too low 
+Seconds is 6
+Production is too low 
+Active producers 12
+Worker 8 produced in 6
+Production is too low 
+Seconds is 6
+Production is too low 
+Worker 10 produced in 6
+Active producers 12
+Production is too low 
+Seconds is 6
+Production is too low 
+Worker 11 produced in 6
+Active producers 12
+Production is too low 
+Seconds is 8
+Production is too low 
+Worker 3 produced in 8
+Active producers 12
+Production is too low 
+Seconds is 7
+Production is too low 
+Worker 12 produced in 7
+Active producers 12
+Production is too low 
+Seconds is 3
+Worker 4 produced in 3
+Production is too low 
+Active producers 12
+Production is too low 
+Seconds is 9
+Production is too low 
+Worker 6 produced in 9
+Active producers 12
+Production is too low 
+Seconds is 9
+Worker 9 produced in 9
+Production is too low 
+Active producers 12
+Production is too low 
+Seconds is 5
+Worker 5 produced in 5
+Production is too low 
+Active producers 12
+Production is too low 
+
